@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BlinkConnect — Universal Multi-Chain Wallet SDK",
+  title: "goBlink Connect — Universal Multi-Chain Wallet SDK",
   description:
-    "One provider. One hook. 9 blockchain ecosystems. 350+ wallets. Replace nested providers with a single <BlinkConnectProvider>. Tree-shakeable, TypeScript-first, MIT licensed.",
+    "One provider. One hook. 9 blockchain ecosystems. 350+ wallets. Replace nested providers with a single <goBlink ConnectProvider>. Tree-shakeable, TypeScript-first, MIT licensed.",
   keywords: [
     "wallet connect",
     "multi-chain",
@@ -25,11 +25,11 @@ export const metadata: Metadata = {
     "Bitcoin",
     "React",
     "SDK",
-    "BlinkConnect",
+    "goBlink Connect",
     "goblink",
   ],
   openGraph: {
-    title: "BlinkConnect — Universal Multi-Chain Wallet SDK",
+    title: "goBlink Connect — Universal Multi-Chain Wallet SDK",
     description:
       "One provider. One hook. 9 blockchain ecosystems. 350+ wallets.",
     type: "website",

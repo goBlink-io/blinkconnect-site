@@ -207,7 +207,7 @@ const afterCode = `<BlinkConnectProvider
   <App />
 </BlinkConnectProvider>`;
 
-const providerCode = `import { BlinkConnectProvider } from "@goblink/connect";
+const providerCode = `import { goBlink ConnectProvider } from "@goblink/connect";
 
 export default function App({ children }) {
   return (
@@ -518,7 +518,7 @@ export default function Home() {
           <SectionHeader
             label="Comparison"
             title="The Only SDK That Covers All 9"
-            description="See how BlinkConnect stacks up against the alternatives."
+            description="See how goBlink Connect stacks up against the alternatives."
           />
           <div className="reveal overflow-x-auto max-w-4xl mx-auto rounded-xl border border-zinc-800 bg-zinc-900/30">
             <table className="w-full text-sm">
@@ -528,7 +528,7 @@ export default function Home() {
                     Feature
                   </th>
                   <th className="p-4 font-mono text-xs font-semibold text-emerald-400">
-                    BlinkConnect
+                    goBlink Connect
                   </th>
                   <th className="p-4 font-mono text-xs text-zinc-500 font-normal">
                     RainbowKit
@@ -618,7 +618,7 @@ export default function Home() {
             <h2 className="text-3xl md:text-5xl font-bold tracking-tight mb-6">
               Start building with{" "}
               <span className="bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
-                BlinkConnect
+                goBlink Connect
               </span>
             </h2>
             <p className="text-zinc-400 text-lg max-w-xl mx-auto mb-10">
