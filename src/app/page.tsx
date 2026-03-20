@@ -302,7 +302,7 @@ export default function Home() {
       <nav className="fixed top-0 left-0 right-0 z-50 border-b border-zinc-800/50 bg-zinc-950/80 backdrop-blur-xl">
         <div className="max-w-6xl mx-auto flex items-center justify-between px-6 h-16">
           <a
-            href="#"
+            href="https://goblink.io"
             className="flex items-center gap-2 font-bold text-lg tracking-tight"
           >
             <span className="bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
